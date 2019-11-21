@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 74fb7992a8fef8840e98283134f3df0bd4d702e0 jerp86 <jerp4@hotmail.com> 1573514441 -0300	commit (initial): Configurando estrutura
+74fb7992a8fef8840e98283134f3df0bd4d702e0 23116757144ab0e3420a92923e1ea1ca8f5b6a33 jerp86 <jerp4@hotmail.com> 1573515138 -0300	commit: Nodemon, Sucrase e Debug
+23116757144ab0e3420a92923e1ea1ca8f5b6a33 bdceaaf8377e69f4809a73be08a05d106fde6330 jerp86 <jerp4@hotmail.com> 1573517081 -0300	commit: ESLint, Prettier & EditorConfig
+bdceaaf8377e69f4809a73be08a05d106fde6330 85441623da9c898c7785689c67da79407491143e jerp86 <jerp4@hotmail.com> 1573517812 -0300	commit: Configurando Sequelize
+85441623da9c898c7785689c67da79407491143e 789b1495ac96ab988b6fc7d1350efd57fb889e1b jerp86 <jerp4@hotmail.com> 1573519781 -0300	commit: Migration de usuário
+789b1495ac96ab988b6fc7d1350efd57fb889e1b 1e0839499fff5f283735761d74eb825e85a0d9fb jerp86 <jerp4@hotmail.com> 1573520468 -0300	commit: Model de Usuário
+1e0839499fff5f283735761d74eb825e85a0d9fb e7784a8207ccdac88b7c7d0a8720a18804b7e396 jerp86 <jerp4@hotmail.com> 1573520954 -0300	commit: Criando loader de models
+e7784a8207ccdac88b7c7d0a8720a18804b7e396 96ec2b766c9a7b61e876be00d2c8325ab6d9f52a jerp86 <jerp4@hotmail.com> 1573523860 -0300	commit: Cadastro de Usuário
+96ec2b766c9a7b61e876be00d2c8325ab6d9f52a 65620706f28cb9d2df7cdb823e96285154837494 jerp86 <jerp4@hotmail.com> 1573525814 -0300	commit: Autenticação JWT
+65620706f28cb9d2df7cdb823e96285154837494 b1e5d2b2e9e1777bdb40fbc5cea51aaeff3f3258 jerp86 <jerp4@hotmail.com> 1573527056 -0300	commit: Middleware de autenticação
+b1e5d2b2e9e1777bdb40fbc5cea51aaeff3f3258 4b0660bd6398119f8687e50ae7db77a6f4ecdd1c jerp86 <jerp4@hotmail.com> 1573528728 -0300	commit: Update do usuário
+4b0660bd6398119f8687e50ae7db77a6f4ecdd1c 187f03d53073950ec91993c3be3da26fbe0318c3 jerp86 <jerp4@hotmail.com> 1573529665 -0300	commit: Validando dados de entrada
+187f03d53073950ec91993c3be3da26fbe0318c3 18f22efa7a386e6941f48f28a2a96aa1f89e5243 jerp86 <jerp4@hotmail.com> 1573535441 -0300	commit: Migration e model de Messages
+18f22efa7a386e6941f48f28a2a96aa1f89e5243 73fab1672abd111de788336ee26919420b2ac15a jerp86 <jerp4@hotmail.com> 1573535498 -0300	commit: Envio de mensagens
+73fab1672abd111de788336ee26919420b2ac15a 9c7cc0fb3829c6717e65c9192c7a3fee20264428 jerp86 <jerp4@hotmail.com> 1573536250 -0300	commit: Listando mensagens em ordem desc de criação
+9c7cc0fb3829c6717e65c9192c7a3fee20264428 e07a24888477ba23c8735e182f984bc4bf4bc9d8 jerp86 <jerp4@hotmail.com> 1573537272 -0300	commit: Paginação das mensagens
+e07a24888477ba23c8735e182f984bc4bf4bc9d8 c4a5f9da8289f3ab4cbfdea742d2e9d2d88b021c jerp86 <jerp4@hotmail.com> 1573553996 -0300	commit: Ajuste nas propriedades/erros das migrations
+c4a5f9da8289f3ab4cbfdea742d2e9d2d88b021c 180bde925d374260017acd4ac8bc48bc42d833b9 jerp86 <jerp4@hotmail.com> 1573554866 -0300	commit: Criação de seeds de users
+180bde925d374260017acd4ac8bc48bc42d833b9 047197c4f577334b04539b2eda7543707be4cdfc jerp86 <jerp4@hotmail.com> 1574222427 -0300	commit: Ajuste nas Messages e finalização da Api
+047197c4f577334b04539b2eda7543707be4cdfc c9557b9dc3c12a8f6944f85c307f9ca03fc12144 jerp86 <jerp4@hotmail.com> 1574307237 -0300	commit: Corrigindo a paginação
+c9557b9dc3c12a8f6944f85c307f9ca03fc12144 07a350703ecacdb327ceb587a4f952772b65106e jerp86 <jerp4@hotmail.com> 1574372907 -0300	commit: Criação das variáveis de ambiente
+07a350703ecacdb327ceb587a4f952772b65106e b2a5dfcc7a37fc78e814437fb3c5659c0ae33b9b jerp86 <jerp4@hotmail.com> 1574376110 -0300	commit: Adicionando variáveis de ambiente

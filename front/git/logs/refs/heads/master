@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 5cc8601264154f8c1a0984075803928cc16d7402 jerp86 <jerp4@hotmail.com> 1573780779 -0300	commit (initial): Initial commit from Create React App
+5cc8601264154f8c1a0984075803928cc16d7402 a40d3865ebeecda4d91c5d204e30773f214a1ced jerp86 <jerp4@hotmail.com> 1573781187 -0300	commit: Criando projeto do zero
+a40d3865ebeecda4d91c5d204e30773f214a1ced 951abb00acc9167f5f2697cec954d5e180622d05 jerp86 <jerp4@hotmail.com> 1573781724 -0300	commit: ESLint, Prettier & EditorConfig
+951abb00acc9167f5f2697cec954d5e180622d05 8bae083d00fa9895105101a162442f46e614ee10 jerp86 <jerp4@hotmail.com> 1573782581 -0300	commit: Roteamento no React
+8bae083d00fa9895105101a162442f46e614ee10 386acbc43add697371895235df1da2346450b92f jerp86 <jerp4@hotmail.com> 1573839168 -0300	commit: Estilizando página Main
+386acbc43add697371895235df1da2346450b92f 0df4ab306de2f348ecffddcf4dd17b8288f00f5f jerp86 <jerp4@hotmail.com> 1574222331 -0300	commit: Criação das pages Main e Message e suas funções
+0df4ab306de2f348ecffddcf4dd17b8288f00f5f f7a0029cdb002ba80985c2c55f72ed1eacfd72ee jerp86 <jerp4@hotmail.com> 1574301397 -0300	commit: Acrescentando o interceptor do axios
+f7a0029cdb002ba80985c2c55f72ed1eacfd72ee 24699fef31b0298ab66034af9b1522220a161835 jerp86 <jerp4@hotmail.com> 1574305602 -0300	commit: Ajustando o styles.js
+24699fef31b0298ab66034af9b1522220a161835 ab1035c5100098810f2400e409265ad1df0338a2 jerp86 <jerp4@hotmail.com> 1574306127 -0300	commit: Ativando o scroll das mensagens
+ab1035c5100098810f2400e409265ad1df0338a2 704e399fd77a4e0ce2c55e7aa3fe98f0290bde81 jerp86 <jerp4@hotmail.com> 1574307008 -0300	commit: Validando o campo de envio de texto
+704e399fd77a4e0ce2c55e7aa3fe98f0290bde81 cc71ab4618042879d2ed5acfc5bec0474c1336b5 jerp86 <jerp4@hotmail.com> 1574308498 -0300	commit: Tirando comentários
+cc71ab4618042879d2ed5acfc5bec0474c1336b5 6989b235ca0649d99867b34d109c7fb39ff71173 jerp86 <jerp4@hotmail.com> 1574374806 -0300	commit: Ajuste de URL de conexão
