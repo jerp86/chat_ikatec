@@ -7,9 +7,8 @@
 <h3>
 
 <p align="center">
-  <a href="#-instalacao-e-execução">Instalação e execução</a>
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
 ## 🚀 Instalação e execução
