@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#memo-requisitos-funcionais">Requisitos funcionais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-requisitos-não-funcionais">Requisitos não funcionais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalacao-e-execucao">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
@@ -30,7 +30,7 @@
 - Deve ser utilizado Bootstrap juntamente com a biblioteca Reactstrap para montagem da interface;
 - O estilo do código deve seguir, o mais próximo possivel, o Airbnb JavaScript Style Guide (https://github.com/airbnb/javascript);
 
-## 🚀 Instalação e execução
+## <a name="instalacao-e-execucao"></a>🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd chat`;
